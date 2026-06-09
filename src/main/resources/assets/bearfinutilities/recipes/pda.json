@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rmr",
+    "ldl",
+    "rer"
+  ],
+  "key": {
+    "r": {"item": "minecraft:redstone"},
+    "m": {"item": "minecraft:emerald"},
+    "l": {"item": "minecraft:dye", "data": 4},
+    "d": {"item": "minecraft:diamond"},
+    "e": {"item": "minecraft:ender_pearl"}
+  },
+  "result": {
+    "item": "bearfinutilities:pda",
+    "count": 1
+  }
+}
